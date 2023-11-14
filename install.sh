@@ -2,3 +2,7 @@ curl -s https://sdk-cdn.mypurecloud.com/external/go-cli/linux/dl/install.sh | su
 
  brew tap hashicorp/tap
  brew install hashicorp/tap/terraform
+
+npm install -g purecloud-platform-client-v2
+pip install PureCloudPlatformClientV2
+go get github.com/mypurecloud/platform-client-sdk-go/v116/platformclientv2

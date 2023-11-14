@@ -14,3 +14,6 @@ ports:
     onOpen: open-preview
 
 # Learn more from ready-to-use templates: https://www.gitpod.io/docs/introduction/getting-started/quickstart
+npm install -g purecloud-platform-client-v2
+pip install PureCloudPlatformClientV2
+go get github.com/mypurecloud/platform-client-sdk-go/v116/platformclientv2
