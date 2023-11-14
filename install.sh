@@ -5,4 +5,3 @@ curl -s https://sdk-cdn.mypurecloud.com/external/go-cli/linux/dl/install.sh | su
 
 npm install -g purecloud-platform-client-v2
 pip install PureCloudPlatformClientV2
-go get github.com/mypurecloud/platform-client-sdk-go/v116/platformclientv2
