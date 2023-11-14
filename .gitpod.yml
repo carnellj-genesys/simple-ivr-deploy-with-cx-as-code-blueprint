@@ -5,7 +5,7 @@ image: gitpod/workspace-full:latest
 tasks:
   - name: Script Task
     init: ./install.sh # runs during prebuild => https://www.gitpod.io/docs/configure/projects/prebuilds
-    command: ./install.sh
+    #command: ./install.sh
 # List the ports to expose. Learn more: https://www.gitpod.io/docs/configure/workspaces/ports
 ports:
   - name: Frontend
